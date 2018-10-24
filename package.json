@@ -20,6 +20,6 @@
     "prop-types": "^15.6.0",
     "react-native-gesture-responder": "0.1.1",
     "react-native-transformable-image": "github:borgand/react-native-transformable-image#064c085",
-    "react-native-view-pager": "github:rajesh-kanna/react-native-view-pager#be890d1"
+    "react-native-view-pager": "github:rajesh-kanna/react-native-view-pager#5641e7c"
   }
 }
